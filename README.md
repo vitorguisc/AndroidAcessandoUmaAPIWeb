@@ -1,4 +1,4 @@
-## Utilizando API WEB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"  width="40" height="40"/> 
+## Utilizando API WEB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/> 
 
 💬 Evitando a perda de dados internos do App
 
